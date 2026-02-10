@@ -7,7 +7,15 @@
   <br>  
 </h1>  
   
-<h4 align="center">Place forms as widgets to CMS page in Magento 2</h4>  
+<h4 align="center">Place forms as widgets to CMS page in Magento 2</h4> 
+
+<div align="center">
+
+![Magento 2](https://img.shields.io/badge/Magento%202-2.4.x-red.svg)
+![Production Ready](https://img.shields.io/badge/Deployment-Production--Ready-blue)
+![Complete](https://img.shields.io/badge/Status-Complete-brightgreen)
+
+</div>
   
 <p align="center"><i>Let you add forms to CMS pages</i></p>  
 
